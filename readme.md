@@ -1,6 +1,12 @@
 
 ## OpenRC-Turbo
 
+### Build Status
+
+[![Build Status](https://travis-ci.org/garrettsummerfi3ld/OpenRC-Turbo.svg?branch=master)](https://travis-ci.org/garrettsummerfi3ld/OpenRC-Turbo)
+
+![Github Actions](https://github.com/garrettsummerfi3ld/OpenRC-Turbo/workflows/Android%20CI/badge.svg)
+
 OpenRC is a modified version of the official [FTC SDK](https://github.com/FIRST-Tech-Challenge/SkyStone)
 in which all of the source code that is normally tucked away inside the AAR files has been extracted into modules. This makes it easy to see and modify almost the entirety of the Robot Controller app's source code. In addition, the history in Git shows all changes that have been made to the core code since OpenRC's inception. This complements the changelogs that FIRST provides, allowing teams to see exactly what code has been changed.
 
